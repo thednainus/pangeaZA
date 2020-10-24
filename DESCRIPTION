@@ -1,0 +1,15 @@
+Package: pangeaZA
+Type: Package
+Title: Analyses and models for PANGEA data from South Africa (ZA).
+Version: 0.1.0
+Author: c(person("Erik", "Volz", email = "erik.volz@gmail.com", role = c("aut", "cre")),person("Fabricia", "Nascimento", email = "f.nascimento@imperial.ac.uk", role = c("aut")))
+Maintainer: Fabricia Nascimentp <f.nascimento@imperial.ac.uk>
+Description: Infectious disease models, nonparametric coaelscent models, 
+  structured coalescent models, visualization and summary of results.
+Depends: R (>= 3.4.3), ape, BayesianTools, phydynR, treedater, skygrowth, 
+  treestructure
+Suggests: ggplot2, coda
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
