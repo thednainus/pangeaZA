@@ -2,8 +2,10 @@
 
 This repository contains the research compendium organized as an R package for Nascimento _et al_. 2020. Here you can find all scripts used in our paper.
 
-For the data used in all analyses please contact XXX.
-For details about PANGEA please check their [website](https://www.pangea-hiv.org/).
+Please contact [PANGEA](https://www.pangea-hiv.org/) to get permission to use the data (genomic sequences, metadata and phylogenetic trees) 
+
+
+For details of analyses carried out on our manuscript, check the [wiki](https://github.com/thednainus/pangeaZA/wiki).
 
 
 ## Authors
