@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/306900460.svg)](https://zenodo.org/badge/latestdoi/306900460)
+
 # PANGEA South Africa HIV Model
 
 This repository contains the research compendium organized as an R package for Nascimento _et al_. 2020. Here you can find all scripts used in our paper.
